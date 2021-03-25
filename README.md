@@ -1,3 +1,7 @@
+# Note
+
+This repository is originated from [higd963/Collaboration2Vec](https://github.com/higd963/Collaboration2Vec)
+
 # Collaboration2Vec
 
 ### Abstract
